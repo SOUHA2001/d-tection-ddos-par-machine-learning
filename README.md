@@ -15,10 +15,11 @@ Détecter les attaques de type DDoS à partir de variables dérivées des logs :
 Construire et comparer plusieurs modèles :
 
 Random Forest
+
 Logistic Regression
+
 Réseaux de neuronnes
 
-Fournir un classifieur final robuste et réutilisable.
 
 📊 Jeu de données
 
@@ -39,6 +40,7 @@ Split 70/30 (train/test)
 
 
 📈 Résultats
+
 Random Forest = modèle le plus performant et le plus stable.
 La Régression Logistique reste correcte, mais moins adaptée aux données complexes.
 Les Réseaux de Neurones ont montré des limites, liées à une architecture simple
