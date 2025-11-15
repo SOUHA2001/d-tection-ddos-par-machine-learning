@@ -1,1 +1,1 @@
-# d-tection-ddos-par-machine-learning
+# detection-ddos-par-machine-learning
